@@ -1,6 +1,7 @@
 # Optimized Data Preparation Pipelines for Predictive Process Monitoring
-Writer : Yeonsu Kim
-Date : 2024-06-24
+
+**Writer:** Yeonsu Kim  
+**Date:** 2024-06-24
 
 # Introduction
 The code for 'Optimized Data Preparation Pipelines for Predictive Process Monitoring'
@@ -9,7 +10,7 @@ In modern business environments, process monitoring is vital for improving organ
 
 # Folder
 
-'''
+```bash
 └─Github
    │  README.md
    │  image.png
@@ -41,7 +42,7 @@ In modern business environments, process monitoring is vital for improving organ
       ├─washed_temp
       ├─washed_concat
       └─result_washed
-'''
+```
 
 # Code
 Preprocessing, Anomaly patterns, PBARdata baseline code from github @jonghyeonk
@@ -74,9 +75,12 @@ Preprocessing, Anomaly patterns, PBARdata baseline code from github @jonghyeonk
 
 If you encounter permission errors, use the following code:
 
+```python
 import os
 os.chmod('//', 0o700)
+```
 
 # Reference
-[1] AIR-BAGLE
-[2] Reverage
+**[1]** Ko, J., Lee, J., & Comuzzi, M. (2020). AIR-BAGEL: An Interactive Root cause-Based Anomaly Generator for Event Logs. Department of Industrial Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, Republic of Korea.
+**[2]** Ko, J., & Comuzzi, M. (2021). Online anomaly detection using statistical leverage for streaming business process events. Information Sciences, 560, 30-47. https://doi.org/10.1016/j.ins.2020.12.079
+
