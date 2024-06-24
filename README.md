@@ -9,6 +9,7 @@ In modern business environments, process monitoring is vital for improving organ
 
 # Folder
 
+'''
 └─Github
    │  README.md
    │  image.png
@@ -40,6 +41,7 @@ In modern business environments, process monitoring is vital for improving organ
       ├─washed_temp
       ├─washed_concat
       └─result_washed
+'''
 
 # Code
 Preprocessing, Anomaly patterns, PBARdata baseline code from github @jonghyeonk
