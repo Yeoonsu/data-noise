@@ -71,7 +71,7 @@ Preprocessing, Anomaly patterns, PBARdata baseline code from github @jonghyeonk
 
 11. Perform PPM and save the results in the result_washed folder.
 
-## tips
+## Tips
 
 If you encounter permission errors, use the following code:
 
